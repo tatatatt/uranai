@@ -10,7 +10,7 @@ var aa = document.getElementById('answer');
 
 const Img = document.createElement('img');
 Img.classList.add("img");
-Img.src = "https://3.bp.blogspot.com/-qbORCFE5qhk/UmTBJwEYKjI/AAAAAAAAZYY/nbjieynFcLQ/s800/job_uranaishi.png";
+Img.src = "https://tatatatt.github.io/uranai/img/job_uranaishi.png";
 Rarea.appendChild(Img);
 
 const answers = [
