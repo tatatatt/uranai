@@ -29,15 +29,15 @@ const answers = [
 ];
 
 const imgList = [
-    'https://1.bp.blogspot.com/-qXSKQe6Tdvk/Us_Nh6itMoI/AAAAAAAAdLA/rvuH-YLG5Oc/s800/megami.png',
-    'https://2.bp.blogspot.com/-h61ngruj0tE/T3K7RDUWmPI/AAAAAAAAE-0/KXtPY8fDwco/s1600/omikuji_daikyou.png',
-    'https://3.bp.blogspot.com/-wnqU56yqrSs/WQvu9TK1_hI/AAAAAAABEDI/bY-D7CsNdywjnJDj44o15NHSs7dGMur8wCLcB/s800/figure_ningenkankei_simple.png',
-    'https://3.bp.blogspot.com/-aYeabkzZuXw/Whu2k5RDoII/AAAAAAABIjA/p7i7BW2A-eI0LWzMn2p4o2HLO31u8bJEgCLcBGAs/s800/seikou_banzai_woman.png',
-    'https://4.bp.blogspot.com/-BQfKJ0oNkrA/UU--6jOBltI/AAAAAAAAO_8/OVQsbzw6pP8/s1600/shitsuren_man.png',
-    'https://2.bp.blogspot.com/-PoOdiRTSedQ/XDXclb_41_I/AAAAAAABRLI/8mFzeKvDGA8LuHrFfko9D9jkFR7AJ8wfwCLcBGAs/s800/pose_kuyashii_man.png',
-    'https://2.bp.blogspot.com/-RxPE2LMSqpA/VCOJsx1yyaI/AAAAAAAAm1U/KCs9MCO3nXw/s800/hansei_koukai_woman.png',
-    'https://1.bp.blogspot.com/-oapWEXWcCNY/WD_cZAZbqSI/AAAAAAABAE4/2h45soF1qzQ1kco9MgojjQ9mcja9XEwKQCLcB/s800/tobotobo_aruku_woman.png',
-    'https://1.bp.blogspot.com/-feZpLEvuGUM/WKFi-l2h5uI/AAAAAAABBrM/bDCwWhvg-W4jtez5fTdCu1SN1eC078DsgCLcB/s800/face_angry_man5.png',
+    'https://tatatatt.github.io/uranai/img/megami.png',
+    'https://tatatatt.github.io/uranai/img/omikuji_daikyou.png',
+    'https://tatatatt.github.io/uranai/img/figure_ningenkankei_simple.png',
+    'https://tatatatt.github.io/uranai/img/seikou_banzai_woman.png',
+    'https://tatatatt.github.io/uranai/img/shitsuren_man.png',
+    'https://tatatatt.github.io/uranai/img/pose_kuyashii_man.png',
+    'https://tatatatt.github.io/uranai/img/hansei_koukai_woman.png',
+    'https://tatatatt.github.io/uranai/img/tobotobo_aruku_woman.png',
+    'https://tatatatt.github.io/uranai/img/face_angry_man5.png',
 
 
 ];
