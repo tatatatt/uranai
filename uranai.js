@@ -10,7 +10,7 @@ var aa = document.getElementById('answer');
 
 const Img = document.createElement('img');
 Img.classList.add("img");
-Img.src = "https://github.com/tatatatt/uranai/blob/master/job_uranaishi.png?raw=true";
+Img.src = "https://github.com/tatatatto/uranai/blob/master/job_uranaishi.png?raw=true";
 Rarea.appendChild(Img);
 
 const answers = [
@@ -29,15 +29,15 @@ const answers = [
 ];
 
 const imgList = [
-    'https://github.com/tatatatt/uranai/blob/master/megami.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/omikuji_daikyou.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/figure_ningenkankei_simple.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/seikou_banzai_woman.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/shitsuren_man.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/pose_kuyashii_man.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/hansei_koukai_woman.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/tobotobo_aruku_woman.png?raw=true',
-    'https://github.com/tatatatt/uranai/blob/master/face_angry_man5.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/megami.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/omikuji_daikyou.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/figure_ningenkankei_simple.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/seikou_banzai_woman.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/shitsuren_man.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/pose_kuyashii_man.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/hansei_koukai_woman.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/tobotobo_aruku_woman.png?raw=true',
+    'https://github.com/tatatatto/uranai/blob/master/face_angry_man5.png?raw=true',
 
 
 ];
