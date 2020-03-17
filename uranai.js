@@ -29,15 +29,15 @@ const answers = [
 ];
 
 const imgList = [
-    'https://tatatatt.github.io/uranai/img/megami.png',
-    'https://tatatatt.github.io/uranai/img/omikuji_daikyou.png',
-    'https://tatatatt.github.io/uranai/img/figure_ningenkankei_simple.png',
-    'https://tatatatt.github.io/uranai/img/seikou_banzai_woman.png',
-    'https://tatatatt.github.io/uranai/img/shitsuren_man.png',
-    'https://tatatatt.github.io/uranai/img/pose_kuyashii_man.png',
-    'https://tatatatt.github.io/uranai/img/hansei_koukai_woman.png',
-    'https://tatatatt.github.io/uranai/img/tobotobo_aruku_woman.png',
-    'https://tatatatt.github.io/uranai/img/face_angry_man5.png',
+    'https://github.com/tatatatt/uranai/blob/master/megami.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/omikuji_daikyou.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/figure_ningenkankei_simple.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/seikou_banzai_woman.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/shitsuren_man.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/pose_kuyashii_man.png ?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/hansei_koukai_woman.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/tobotobo_aruku_woman.png?raw=true',
+    'https://github.com/tatatatt/uranai/blob/master/face_angry_man5.png?raw=true',
 
 
 ];
