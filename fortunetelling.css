@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(230, 204, 243);
+    
+}
+
+
+
+.A{
+    font-family: serif;
+    text-align:  center;
+}
+
+.B{
+    font-family: serif;
+}
+
+.input{
+    width: 100px;
+}
+
+.img{
+    width: 500px;
+}
+
+.result-area{
+    text-align:center;
+}
